@@ -2,6 +2,9 @@
     "name": "n8n-nodes-jsonschema",
     "version": "1.0.1",
     "description": "JSON Schema validation and normalization tools for n8n.",
+    "publishConfig": {
+    "access": "public"
+    },
     "license": "MIT",
     "homepage": "",
     "keywords": [
