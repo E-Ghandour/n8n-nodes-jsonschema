@@ -21,10 +21,6 @@ This node helps you:
   - [Normalize example](#normalize-example)  
 - [Behavior notes and edge cases](#behavior-notes-and-edge-cases)  
 - [Compatibility](#compatibility)  
-- [Usage tips](#usage-tips)  
-- [Resources](#resources)  
-- [Version history](#version-history)  
-- [License](#license)
 ## Installation
 
 Follow the n8n community nodes installation guide:
