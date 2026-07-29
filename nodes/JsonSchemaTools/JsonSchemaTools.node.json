@@ -1,0 +1,12 @@
+{
+  "node": "JsonSchemaTools",
+  "displayName": "JSON Schema Tools",
+  "description": "Validate, normalize, and parse JSON or text using JSON Schema.",
+  "group": ["transform"],
+  "version": 1,
+  "icon": "file:json.svg",
+  "codex": {
+    "categories": ["Data Transformation"],
+    "subcategories": ["JSON", "Validation"]
+  }
+}
