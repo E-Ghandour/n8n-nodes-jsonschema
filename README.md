@@ -20,18 +20,12 @@ This node helps you:
   - [Validate example](#validate-example)  
   - [Normalize example](#normalize-example)  
 - [Behavior notes and edge cases](#behavior-notes-and-edge-cases)  
-- [Compatibility](#compatibility)  
+- [Compatibility](#compatibility)
+- [Resources](#resources)  
 ## Installation
 
-Follow the n8n community nodes installation guide:
+Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation.
 
-1. Place the node source in your custom nodes folder (for example `~/.n8n/custom/`) or include it in your community nodes package.
-2. If using TypeScript, ensure the node is compiled to JavaScript (or your n8n test image supports hot reload of `.ts`).
-3. Restart n8n (or use your environment’s hot-reload mechanism) so n8n picks up the new node.
-4. The node will appear in the node list as **JSON Schema Tools** (type `jsonSchemaTools` or `CUSTOM.jsonSchemaTools` depending on packaging).
-
-See the official docs for details:  
-https://docs.n8n.io/integrations/community-nodes/installation/
 ## Operations
 
 ### Text to JSON (`textToJson`)
@@ -228,3 +222,6 @@ The node applies default values by design. If you prefer defaults to be opt-in, 
 
 - **Minimum n8n version**: test with n8n versions that support community nodes and the `n8n-workflow` interfaces used by this node. Confirm against your environment; the node uses standard n8n node interfaces.
 - Tested with n8n community node runner and n8n test images that support hot reload for custom nodes **version 2.32.6**.
+## Resources
+
+* [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
