@@ -1,12 +1,14 @@
 {
-  "node": "JsonSchemaTools",
-  "displayName": "JSON Schema Tools",
-  "description": "Validate, normalize, and parse JSON or text using JSON Schema.",
-  "group": ["transform"],
-  "version": 1,
-  "icon": "file:json.svg",
-  "codex": {
-    "categories": ["Data Transformation"],
-    "subcategories": ["JSON", "Validation"]
+  "node": "n8n-nodes-jsonschema",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Utility"],
+  "resources": {
+    "credentialDocumentation": [],
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/E-Ghandour/n8n-nodes-jsonschema"
+      }
+    ]
   }
 }
