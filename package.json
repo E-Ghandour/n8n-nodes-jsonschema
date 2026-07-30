@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-jsonschema",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "JSON Schema validation and normalization tools for n8n.",
     "publishConfig": {
         "access": "public"
